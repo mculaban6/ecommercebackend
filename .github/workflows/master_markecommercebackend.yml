@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'markecommercebackend'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_714190B626964D23BD7712D0AFE914C1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AE3C60FAE3FD430ABD76B419C5313E0F }}
           package: .
