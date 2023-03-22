@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'markBackend'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B9271E51E13641AE9E237DF163B13CE0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DD01CC1DDB4B485580B603DE46CEC431 }}
           package: .
