@@ -10,7 +10,7 @@ const orderRoutes = require("./routes/orderRoutes");
 
 //========= CONNECT EXPRESS =============
 const app = express();
-const port = process.env.PORT || 3011;
+const port = process.env.PORT || 8080;
 
 app.use(cors());
 app.use(express.json());
